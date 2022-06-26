@@ -1,8 +1,8 @@
 from tkinter import *
 from tkinter import ttk
-import pyperclip
+import pyperclip # pip install pyperclip
 from tkinter import messagebox, ttk
-from pytube import YouTube
+from pytube import YouTube # pip install pytube
 
 
 def about():
